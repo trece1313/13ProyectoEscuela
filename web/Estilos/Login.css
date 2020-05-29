@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    background: rgb(203, 201, 200) !important;
+}
+.contHeader header h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+.contTort{
+    display: inline-block;
+    width: 70vw;
+    height: 90vh;
+    background: yellow;
+}
+.contLogin{
+    width: 29.9vw;
+    height: 88.3vh;
+    background: red;
+    position: absolute;
+    top: 10%;
+    display: inline-block;
+    
+}
+.contInput{
+    width: 80%;
+    height: 90%;
+    background: black;
+    position: relative;
+    top: 5%;
+    left: 10%;
+
+}
+
+
+ <%--        <div class="contInput">
+                  <h2>Login</h2>
+                  
+                  <form id="formLogin">
+
+                      <div class="row">
+                          <div class="col-sm-12">
+                              <div class="form-group">
+                                  <input type="text" name="" id="" value="" placeholder="Ingrese Usuario" class="form-control">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-sm-12">
+                              <div class="form-group">
+                                  <input type="text" name="" id="" value="" placeholder="Ingrese Password" class="form-control">
+                              </div>
+                          </div>
+                      </div>
+                      
+                  </form>
+                  <div class="row">
+                      <div class="col-sm-12">
+                          <div class="form-group">
+                              <button type="button" class="btn btn-">
+                                  <span class="glyphicon glyphicon-search"></span> Search
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+               
+              </div>   --%>

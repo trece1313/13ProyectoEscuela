@@ -1,0 +1,29 @@
+.divPersona{
+    width: 96vw;
+    height: 50vh;
+    background: green;
+}
+.divDireccion{
+    width: 96vw;
+    height: 50vh;
+    background: red;
+}
+.divEmpleado{
+      width: 96vw;
+    height: 50vh;
+    background: pink;  
+}
+.cajasTexto,h2{
+        text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../Imagenes/cargandoImagen.gif') 50% 50% no-repeat rgb(249,249,249);
+    opacity: .8;
+}
